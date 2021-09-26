@@ -1,3 +1,3 @@
 npm install
 npm run build
-cp -r ./assets ./dist/assets
+cp -r ./assets ./dist/
