@@ -1,3 +1,3 @@
 npm install
-npm install webpack -g
+cp ./assets/walls.gif ./assets/Walls.gif
 npm run build
